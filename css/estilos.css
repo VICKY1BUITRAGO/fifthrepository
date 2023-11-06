@@ -1,0 +1,15 @@
+body{
+    color: white;
+    padding: 10px;
+    margin: 30px;
+    font-size: 24px;
+    font-family: helvetica;
+    background-image: url(https://wallpapercave.com/uwp/uwp3580264.jpeg);
+    background-repeat: no-repeat; 
+    background-size: auto;
+}
+nav
+{
+    padding: 0px;
+    color: white;
+}
